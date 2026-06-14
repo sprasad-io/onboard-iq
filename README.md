@@ -157,4 +157,8 @@ flowchart TD
 
 > OnboardIQ solves the slow, manual, and high-risk process of enterprise onboarding. It uses a secure multi-agent framework built on Azure AI Foundry and Microsoft IQ to deliver compliance-grounded policy summaries, team-specific onboarding roadmaps, automated risk auditing, and conversational task guidance.
 
+---
+
+Thank you for reviewing OnboardIQ — this submission is ready for evaluation. For a quick walkthrough, see the demo flow and setup instructions above.
+
 
